@@ -1,20 +1,4 @@
-name: Vorhaus Communications
-favicon: null
-layout_spectrum: 0.0017299419268965721
 typography_spectrum: 0.5986489795614034
-title: 'Vorhaus Communications, Inc.'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#A690A4'
@@ -26,4 +10,21 @@ color:
   lightness: 0.794852833263576
   saturation: 0.2402510172687471
   rhythmicContrast: 0.30317937047220767
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.0017299419268965721
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Vorhaus Communications
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: 'Vorhaus Communications, Inc.'
+description: 'Whoever Tells the Best Story, Wins.'
 purpose: []
